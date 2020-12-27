@@ -1,6 +1,6 @@
 # Ping Sacnner
 
-## KeyLogger Using Python _****Windows , Linux, Mac****_
+## KeyLogger Using Python For _****Windows , Linux, Mac****_
 
 Prerequisite:
 <ol>
