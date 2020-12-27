@@ -14,7 +14,7 @@ def ping(ip,i):
 
 def Entire_network(ip):
     ip = ip.rsplit(".",1)
-    for i in range(100,110):
+    for i in range(1,256):
         #ping = os.popen(f'ping 192.168.0.{i}').read()
         ping(ip,i)
 
