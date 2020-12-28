@@ -2,7 +2,7 @@
 
 # THIS SCRIPT IS STILL IN DEVELOPING STATE
 
-## KeyLogger Using Python For _****Windows , Linux, Mac****_
+## Ping Sacnner Using Python For _****Windows , Linux, Mac****_
 
 Prerequisite:
 <ol>
