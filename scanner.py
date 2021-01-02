@@ -61,9 +61,14 @@ def main():
             enD = 255
             Entire_network(ip,strt,enD)
         elif op1 == 2: 
-            print("Enter the range\n")
+            print("Enter the range Between 1-255\n ")
             strt = int(input("Enter the Starting host:"))
             enD = int(input("Enter the Ending host:"))
+            if strt <= 0 or strt >= 255 and enD <= 255 or enD >= 0:
+                print("Give proper range")
+                print("Enter the range Between 1-255\n ")
+                strt = int(input("Enter the Starting host:"))
+                enD = int(input("Enter the Ending host:"))
             Entire_network(ip,strt,enD)
 
 if __name__ == '__main__':
