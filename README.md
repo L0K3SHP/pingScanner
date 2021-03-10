@@ -1,8 +1,8 @@
-# Ping Sacnner
+# Ping Scanner
 
 # THIS SCRIPT IS STILL IN DEVELOPING STATE
 
-## Ping Sacnner Using Python For _****Windows , Linux, Mac****_
+## Ping Scanner Using Python For _****Windows , Linux, Mac****_
 
 Prerequisite:
 <ol>
